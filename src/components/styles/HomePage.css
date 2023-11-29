@@ -1,0 +1,33 @@
+
+.home__page {
+    margin: auto;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-color: #ffe4e4;
+}
+
+.home__img {
+    margin: auto;
+}
+
+.home__input,
+.home__button {
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    margin: 1rem 0;
+}
+
+.home__input {
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+}
+
+.home__button {
+    background: red;
+    color: white;
+    font-weight: bold;
+}
