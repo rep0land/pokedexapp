@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react"
-import useFetch from "../../hooks/UseFetch"
+import useFetch from "../../hooks/useFetch"
 
 
 const SelectType = ( { setSelectValue } ) => {
